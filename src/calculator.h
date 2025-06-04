@@ -17,6 +17,10 @@ private slots:
     void operatorClicked();
     bool equalsClicked();
     void clearClicked();
+    void dotClicked();
+    void changeSignClicked();
+    void backspaceClicked();
+    void clearEntryClicked();
 
 private:
     void createButtons();
